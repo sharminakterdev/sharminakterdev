@@ -65,13 +65,6 @@
   <img align="center" src="https://streak-stats.demolab.com/?user=sharminakterdev&theme=radical" />
 </p>
 
-<br/>
 
-<!--- random quote --->
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
----
 
-<!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharminakterdev&label=Profile%2520views&color=0e75b6&style=flat" alt="sharminakterdev" /> </p>
